@@ -11,15 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RakinC1/greenbridge.git"
+    "url": "git+https://github.com/RakinC1/green.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RakinC1/greenbridge/issues"
-  },
-  "homepage": "https://github.com/RakinC1/greenbridge#readme",
+  
+  "homepage": "https://github.com/RakinC1/green#readme",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "next": "^16.1.6",
